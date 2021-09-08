@@ -2,7 +2,8 @@
 Tutorial on RNA-Seq data analysis from a study of gene expression in a prokaryote.
 
 Pangeo Binder:
-[![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/MaineINBRE/rnaseq-myco-tutorial/master?filepath=https%3A%2F%2Fgithub.com%2FMaineINBRE%2Frnaseq-myco-tutorial%2Fblob%2Fmain%2Findex.ipynb)
+
+[![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/MaineINBRE/rnaseq-myco-tutorial/master)
 
 BinderHub:
 
