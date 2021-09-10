@@ -8,3 +8,7 @@ Run Trimmomatic Demo Pangeo Binder:
 Run Trimmomatic Demo using BinderHub:
 
 [![Binder](http://34.85.253.172/badge_logo.svg)](http://34.85.253.172/v2/gh/MaineINBRE/rnaseq-myco-tutorial/HEAD?urlpath=trimmomatic.ipynb)
+
+Run Trimmomatic Demo using BinderHub:
+
+[![Binder](http://34.85.253.172/badge_logo.svg)](http://34.85.253.172/v2/gh/MaineINBRE/rnaseq-myco-tutorial/HEAD)
