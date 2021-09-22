@@ -3,7 +3,7 @@ Tutorial on RNA-Seq data analysis from a study of gene expression in a prokaryot
 
 Run Trimmomatic Demo Pangeo Binder:
 
-[![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/MaineINBRE/rnaseq-myco-tutorial/main?urlpath=trimmomatic.ipynb)
+[![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/MaineINBRE/rnaseq-myco-tutorial/main?filepath=trimmomatic.ipynb)
 
 Run Trimmomatic Demo using BinderHub:
 
